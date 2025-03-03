@@ -18,7 +18,7 @@
     - main.py   # Argparse for CMD line calling
 
 - environment.yml   # Create Python Env
-- discussion.pdf    # LaTeX for discussions and answes
+- Prabhav_IE_Proj1.pdf    # LaTeX for discussions and answes
 - README.pdf        # This file
 - proj1.pdf         # Questions
 ```
